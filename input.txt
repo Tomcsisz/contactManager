@@ -1,0 +1,7 @@
+"Andrea": "06308888888", email@email.com
+"Tamas": "0620/8888888", v4l1demail@email.com
+"Zsolt": "0670/8888888", .not_valid@email.com
+Geza : "06/309898987", bb mail@email.com
+Bela: "06(30)888888", no@email.c
+"Titanilla": "06(30)888-8888", email@email.mail.com
+Andras:   , mail@mailerdaemon.com
